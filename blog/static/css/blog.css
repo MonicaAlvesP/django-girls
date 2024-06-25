@@ -1,7 +1,16 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #f8f8f8;
+  margin: 200px;
+  padding: 0;
+  border: solid 1px #e7e7e7;
+}
+
 .page-header {
   background-color: #ce3a73;
   margin-top: 0;
   padding: 20px 20px 20px 40px;
+  color: #ffffff;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
