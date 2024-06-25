@@ -3,6 +3,6 @@ from . import views
 
 urlpatterns = [
   path('', views.post_list, name='post_list'),
-  path('sala',views.sala),
-  path('sala2',views.sala2),
+  # path('sala',views.sala),
+  # path('sala2',views.sala2),
 ]
